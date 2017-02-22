@@ -5,4 +5,5 @@ built with:<br/>
   CSS3<br/>
   -Sass<br/>
   -Bourbon<br/>
+  -Flexbox<br/>
   JS (only for hamburger menu)
