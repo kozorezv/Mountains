@@ -1,8 +1,8 @@
 # Mountains
-Responsive webpage,
-built with:
-  HTML5
-  CSS3
-  -Sass
-  -Bourbon
+Responsive webpage,<br/>
+built with:<br/>
+  HTML5<br/>
+  CSS3<br/>
+  -Sass<br/>
+  -Bourbon<br/>
   JS (only for hamburger menu)
